@@ -217,8 +217,7 @@ Projeto-Fechadura-Eletronica-com-RFID/
 ├── README.md
 ├── src/
 │   └── controle_acesso_rfid.ino
-│   └── main.ino
-├── docs/
+├── Docs/
 │   └── projeto-fechadura-rfid.pdf
 ```
 
